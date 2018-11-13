@@ -1,6 +1,4 @@
-yvadalia
-dnath
-ashah59
+
 
 ## Run the Grp17ALS.py file
 
